@@ -60,3 +60,7 @@ Runs the server against a fake API on localhost. It does not touch a real accoun
 ## Status
 
 Built from the public docs. The offline test passes and the read calls for the account, campaigns, custom audiences and account insights have been run against a live account. The write tools and the query encoding for insights filters have only been tested against the fake API.
+
+## Licence
+
+MIT. See [LICENSE](LICENSE). This is an independent project and is not affiliated with or endorsed by OpenAI.
