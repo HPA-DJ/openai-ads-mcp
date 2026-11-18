@@ -1,0 +1,4 @@
+.env
+changes/
+audit.jsonl
+__pycache__/
